@@ -1,4 +1,5 @@
 All Pages
+
 Changed primary text font to Verdana
 Change the copyright footers on all pages to the current year and my name
 Added a closing tag to the navigation list
